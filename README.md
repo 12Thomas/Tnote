@@ -1,2 +1,2 @@
 # An emotional vents
-# push 'Esc' to clean the board
+# push 'Esc' to clean the screen
