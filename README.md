@@ -1,2 +1,2 @@
-# An emotional vents
-# push 'Esc' to clean the screen
+# An emotional vents,or a notebook
+# press 'Esc' to clean the screen
